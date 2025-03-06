@@ -1,0 +1,20 @@
+.garden {
+  position: relative;
+  width: 1000px;
+  height: 750px;
+  border: 1rem solid #7a3e06;
+  background: lightgreen;
+  margin: 5rem auto;
+}
+
+.basket {
+  position: absolute;
+  top: 0;
+  left: -156px;
+}
+
+.candy {
+  position: absolute;
+  top: 0;
+  left: -128px;
+}
